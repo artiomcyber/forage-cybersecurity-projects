@@ -204,7 +204,7 @@ Based on the analysis, I created a **5-slide security awareness presentation** f
 **Mastercard Cybersecurity Virtual Experience Program**
 Issued by Forage · Completed: June 6, 2026
 
-📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/01-mastercard-cybersecurity/mastercard-cybersecurity-certificate.pdf?raw=true)
+📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/01-mastercard-cybersecurity/MasterCard%20Cybersecurity%20Job%20Simulation%20Certificate.pdf?raw=true)
 
 > *"I recently participated in Mastercard's job simulation..."*
 ---
