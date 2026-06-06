@@ -173,7 +173,7 @@ After the phishing simulation campaign was run across Mastercard's departments, 
 
 Based on the analysis, I created a **5-slide security awareness presentation** for HR and Marketing teams:
 
-📎 [Download Presentation → security-awareness-training-HR-Marketing.pptx](./security-awareness-training-HR-Marketing.pptx)
+📎 [Download Presentation → security-awareness-training-HR-Marketing.pptx](https://github.com/artiomcyber/forage-cybersecurity-projects/raw/main/01-mastercard-cybersecurity/security-awareness-training-HR-Marketing.pptx)
 
 | Slide | Title | Content |
 |-------|-------|---------|
