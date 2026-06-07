@@ -27,8 +27,8 @@ These simulations mirror actual tasks performed by cybersecurity analysts at som
 | # | Company | Program | Level | Topics Covered | Status |
 |---|---------|---------|-------|----------------|--------|
 | 01 | 🔴 Mastercard | [Cybersecurity](./01-mastercard-cybersecurity/) | Introductory | Phishing simulation, Security awareness training, Data analysis | ✅ Completed |
-| 02 | 🟡 Commonwealth Bank | [Introduction to Cybersecurity](./02-commonwealth-bank-intro-cybersecurity/) | Introductory | Cybersecurity fundamentals, Fraud detection, Secure design | 🔄 In Progress |
-| 03 | 🟢 Deloitte | [Cyber](./03-deloitte-cyber/) | Introductory | Cyber threat analysis, Risk assessment, Forensics | 🔜 Upcoming |
+| 02 | 🟢 Deloitte | [Cyber](./02-deloitte-cyber/) | Introductory | Log analysis, Threat detection, Incident investigation, Web security | ✅ Completed |
+| 03 | 🟡 Commonwealth Bank | [Introduction to Cybersecurity](./03-commonwealth-bank-intro-cybersecurity/) | Introductory | Cybersecurity fundamentals, Fraud detection, Secure design | 🔜 Upcoming |
 | 04 | 🟡 Commonwealth Bank | [Tech Explorer](./04-commonwealth-bank-tech-explorer/) | Introductory | Software security, Technical problem solving | 🔜 Upcoming |
 | 05 | 🔵 AIG | [Shields Up: Cybersecurity](./05-aig-shields-up-cybersecurity/) | Intermediate | Vulnerability assessment, Incident response, CISA advisories | 🔜 Upcoming |
 | 06 | 🟣 Datacom | [Cyber Security Operations](./06-datacom-cybersecurity-operations/) | Intermediate | SOC operations, Threat intelligence, Risk management | 🔜 Upcoming |
