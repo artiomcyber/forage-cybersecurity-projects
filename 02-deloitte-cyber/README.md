@@ -34,10 +34,11 @@ The simulation involved one core investigation task requiring real SOC analyst s
 ```
 02-deloitte-cyber/
 │
-├── README.md                                        # Full investigation documentation
-├── Log evidence 1.png                               # Automated hourly polling pattern
-├── Log evidence 2.png                               # Token expiry 401 UNAUTHORIZED
-├── Log evidence 3.png                               # Session resume & re-authentication
+├── README.md                                         # Full investigation documentation
+├── Log evidence 1.png                                # Automated hourly polling timestamp pattern
+├── Log evidence 2.png                                # Token expiry — 401 UNAUTHORIZED begins
+├── Log evidence 3.png                                # Token expiry — 401 UNAUTHORIZED begins
+├── Log evidence 4.png                                # Re-authentication attempt next day
 │
 └── Deloitte Cybersecurity Job Simulation Certificate.pdf
 ```
@@ -158,9 +159,10 @@ Immediately after re-authentication at `17:00:48`, the **automated hourly pollin
 
 ## 🖼️ Evidence Screenshots
 
-📸 [Log Evidence 1 — Automated Polling Pattern](./Log%20evidence%201.png)
-📸 [Log Evidence 2 — Token Expiry 401 Errors](./Log%20evidence%202.png)
-📸 [Log Evidence 3 — Session Resume & Re-authentication](./Log%20evidence%203.png)
+📸 [Log Evidence 1 — Automated Hourly Polling Timestamps](./Log%20evidence%201.png)
+📸 [Log Evidence 2 — Token Expiry: 401 UNAUTHORIZED Begins](./Log%20evidence%202.png)
+📸 [Log Evidence 3 — Token Expiry: 401 UNAUTHORIZED Begins](./Log%20evidence%203.png)
+📸 [Log Evidence 4 — Re-authentication Attempt Next Day](./Log%20evidence%204.png)
 
 ---
 
