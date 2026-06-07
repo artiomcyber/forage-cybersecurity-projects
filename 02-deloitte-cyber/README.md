@@ -34,15 +34,12 @@ The simulation involved one core investigation task requiring real SOC analyst s
 ```
 02-deloitte-cyber/
 │
-├── README.md                          # Full investigation documentation (this file)
+├── README.md                                        # Full investigation documentation
+├── Log evidence 1.png                               # Automated hourly polling pattern
+├── Log evidence 2.png                               # Token expiry 401 UNAUTHORIZED
+├── Log evidence 3.png                               # Session resume & re-authentication
 │
-├── evidence/
-│   ├── automated-polling-pattern.png  # Screenshot showing hourly automated requests
-│   ├── token-expiry-401.png           # Screenshot showing midnight 401 UNAUTHORIZED
-│   └── session-resume-pattern.png     # Screenshot showing re-authentication next day
-│
-└── certificate/
-    └── deloitte-cyber-certificate.pdf # Completion certificate
+└── Deloitte Cybersecurity Job Simulation Certificate.pdf
 ```
 
 ---
@@ -159,6 +156,14 @@ Immediately after re-authentication at `17:00:48`, the **automated hourly pollin
 
 ---
 
+## 🖼️ Evidence Screenshots
+
+📸 [Log Evidence 1 — Automated Polling Pattern](./Log%20evidence%201.png)
+📸 [Log Evidence 2 — Token Expiry 401 Errors](./Log%20evidence%202.png)
+📸 [Log Evidence 3 — Session Resume & Re-authentication](./Log%20evidence%203.png)
+
+---
+
 ### 🎯 Findings Summary
 
 | Finding | Detail |
@@ -192,7 +197,7 @@ Immediately after re-authentication at `17:00:48`, the **automated hourly pollin
 **Deloitte Australia Cyber Job Simulation**
 Issued by Forage · Completed: June 7, 2026
 
-📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/02-deloitte-cyber/certificate/deloitte-cyber-certificate.pdf?raw=true)
+📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/02-deloitte-cyber/Deloitte%20Cybersecurity%20Job%20Simulation%20Certificate.pdf?raw=true)
 
 ---
 
