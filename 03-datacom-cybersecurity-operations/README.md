@@ -162,9 +162,9 @@ Issued by Forage · Completed: June 8, 2026
 
 ## 🚀 About Me
 
-**Artsiom Pankrashkin** | Aspiring Cybersecurity Professional
+**Artsiom** | Aspiring Cybersecurity Professional
 
-I am an aspiring cybersecurity professional holding SC-900 (Microsoft Security, Compliance & Identity Fundamentals) and SEC0 certifications, actively expanding my hands-on experience through industry simulations, labs, and real-world projects. My focus areas include Governance, Risk & Compliance (GRC) and Security Operations (SOC).
+I am an aspiring cybersecurity professional holding SC-900 (Microsoft Security, Compliance & Identity Fundamentals) and TryHackMe SEC0 certifications, actively expanding my hands-on experience through industry simulations, labs, and real-world projects. My focus areas include Governance, Risk & Compliance (GRC) and Security Operations (SOC) — working towards a career where I can help organizations build resilient security programs and respond effectively to evolving cyber threats.
 
 - 🐙 GitHub: [@artiomcyber](https://github.com/artiomcyber)
 - 🏅 Certifications: SC-900 | SEC0
