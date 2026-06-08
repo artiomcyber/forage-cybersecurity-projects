@@ -31,7 +31,7 @@ These simulations mirror actual tasks performed by cybersecurity analysts at som
 | 03 | 🟡 Commonwealth Bank | [Introduction to Cybersecurity](./03-commonwealth-bank-intro-cybersecurity/) | Introductory | Cybersecurity fundamentals, Fraud detection, Secure design | 🔜 Upcoming |
 | 04 | 🟡 Commonwealth Bank | [Tech Explorer](./04-commonwealth-bank-tech-explorer/) | Introductory | Software security, Technical problem solving | 🔜 Upcoming |
 | 05 | 🔵 AIG | [Shields Up: Cybersecurity](./05-aig-shields-up-cybersecurity/) | Intermediate | Vulnerability assessment, Incident response, CISA advisories | 🔜 Upcoming |
-| 06 | 🟣 Datacom | [Cyber Security Operations](./06-datacom-cybersecurity-operations/) | Intermediate | SOC operations, Threat intelligence, Risk management | 🔜 Upcoming |
+| 06 | 🟣 Datacom | [Cyber Security Operations](./03-datacom-cybersecurity-operations/) | Intermediate | Ransomware incident investigation, Risk assessment, MITRE ATT&CK, NIST CSF 2.0 | ✅ Completed |
 | 07 | 🔵 TATA | [Cybersecurity Analyst](./07-tata-cybersecurity-analyst/) | Intermediate | IAM, Security architecture, Threat modelling | 🔜 Upcoming |
 
 ---
