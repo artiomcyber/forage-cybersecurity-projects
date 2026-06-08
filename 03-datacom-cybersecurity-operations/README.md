@@ -31,16 +31,10 @@ This was the most demanding simulation in the portfolio so far. Both tasks requi
 ```
 03-datacom-cybersecurity-operations/
 │
-├── README.md                                           # Full project documentation
-│
-├── task-1-ransomware-incident-investigation/
-│   └── Orion_Health_Security_Breach_Impact_Report.docx
-│
-├── task-2-cybersecurity-risk-assessment/
-│   └── RetailNova_Risk_Assessment.docx
-│
-└── certificate/
-    └── Datacom_Cybersecurity_Job_Simulation_Certificate.pdf
+├── README.md                                                  # Full project documentation
+├── Orion Health Security Breach Impact Report.docx            # Task 1 — Ransomware incident report
+├── RetailNova Risk Assessment.docx                            # Task 2 — Cybersecurity risk assessment
+└── DATACOM Cyber Security Operations Job Simulation.pdf       # Completion certificate
 ```
 
 ---
@@ -51,7 +45,7 @@ This was the most demanding simulation in the portfolio so far. Both tasks requi
 
 Orion Health Services is a mid-sized healthcare technology provider with 250 employees, managing sensitive patient data and providing cloud-based software to clinics across Australia and New Zealand.
 
-On a Monday morning their IT team detected unusual outbound traffic from an internal server. By midday employees were locked out of systems and a ransom note had appeared on the shared drive.
+On a Monday morning, their IT team detected unusual outbound traffic from an internal server. By midday, employees were locked out of systems, and a ransom note had appeared on the shared drive.
 
 ### The Attack
 
@@ -93,7 +87,7 @@ On a Monday morning their IT team detected unusual outbound traffic from an inte
 | 🟢 Medium | Phishing awareness training programme | 2–4 weeks | $2K–$10K/yr |
 | 🟢 Medium | Develop incident response plan | 1–2 months | $5K–$25K |
 
-📎 [Download Full Report](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/task-1-ransomware-incident-investigation/Orion_Health_Security_Breach_Impact_Report.docx?raw=true)
+📎 [Download Full Report](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/Orion%20Health%20Security%20Breach%20Impact%20Report.docx?raw=true)
 
 ---
 
@@ -138,7 +132,7 @@ The highest priority gap identified: **no MFA on corporate accounts**. Given tha
 - Each risk assessed with **Inherent Risk** (before controls) and **Residual Risk** (after existing controls)
 - Vulnerabilities mapped to specific assets with existing controls documented
 
-📎 [Download Full Report](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/task-2-cybersecurity-risk-assessment/RetailNova_Risk_Assessment.docx?raw=true)
+📎 [Download Full Report](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/RetailNova%20Risk%20Assessment.docx?raw=true)
 
 ---
 
@@ -162,7 +156,7 @@ The highest priority gap identified: **no MFA on corporate accounts**. Given tha
 **Datacom Cyber Security Operations Job Simulation**
 Issued by Forage · Completed: June 8, 2026
 
-📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/certificate/Datacom_Cybersecurity_Job_Simulation_Certificate.pdf?raw=true)
+📎 [Download Certificate](https://github.com/artiomcyber/forage-cybersecurity-projects/blob/main/03-datacom-cybersecurity-operations/DATACOM%20Cyber%20Security%20Operations%20Job%20Simulation.pdf?raw=true)
 
 ---
 
