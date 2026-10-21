@@ -22,7 +22,7 @@ The Mastercard simulation involved reviewing phishing indicators, assessing camp
 
 The Deloitte simulation included web request analysis, identifying repeat access patterns and reconstructing what occurred when a session expired and requests were denied.
 
-**Outcome:** A written incident timeline supported by four [log investigation screenshots](02-deloitte-cyber/README.md#-evidence-screenshots).
+**Outcome:** A written incident timeline supported by four [log investigation screenshots](02-deloitte-cyber/README.md).
 
 ### Case 03 — Incident impact and risk assessment
 
